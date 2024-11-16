@@ -1,2 +1,2 @@
 #Display the output
-pribt("New Python File")
+print("New Python File")
